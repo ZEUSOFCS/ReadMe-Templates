@@ -1,6 +1,6 @@
 
 ###### Subtitle
-## 📦  Overview of App 
+##  Overview of App 
 
 #### English 🇺🇸
 
