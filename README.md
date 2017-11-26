@@ -37,10 +37,10 @@ information about Casilla.
 
 
 ## Credits
- Code made with lots of ♥️ [Dorian Javä Brown](www.dorianbrown.me) 
+ Code made with lots of ♥️ by [Dorian Javä Brown](www.dorianbrown.me) 
   - **Developer 👨🏽‍💻  & UI/UX Designer 👨🏽‍🎨 :** [Dorian Javä Brown](www.dorianbrown.me) 
  
 
-## 📦  License
+## License
 
 **[MIT](LICENSE)**
